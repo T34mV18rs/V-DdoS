@@ -21,14 +21,14 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet V-DdoS")
 print
-print "Coded By : Mr.BL4Z3"
-print "Author   : T34m V18rs"
+print "Coded By : PaulTampan"
+print "Author   : T34m PaulOfficial"
 print "Github   : github.com/T34mV18rs"
-print "Fb Page  : facebook.com/TeamVirusOfficial"
-print "FB Group : facebook.com/groups/mohinhossen"
+print "Fb Page  : facebook.com/TeamPaulOfficial"
+print "FB Group : facebook.com/groups/HackingByPaul"
 print "Telegram : t.me/Crackerspace"
-print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
-print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
+print "Ini Buatan Dari Paul Tampan"
+print "Peringatan: jangan menyalah gunakan tools jika terjadi sesuatu kalian tanggung sendiri"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
